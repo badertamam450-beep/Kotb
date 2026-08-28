@@ -1,0 +1,7 @@
+{
+  "name": "إلى المفازة العظمى",
+  "description": "تطبيق كتاب إلى المفازة العظمى للدكتور مالك عبدالرحمن الرميمة - تصميم أنيق وتدقيق لغوي شامل وقراءة تفاعلية ميسرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
